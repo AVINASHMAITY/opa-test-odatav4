@@ -1,0 +1,222 @@
+[
+    {
+        "AirlineID": "pCq",
+        "AirlineID_Text": "AirlineID_Text1",
+        "ConnectionID": "qsGg",
+        "FlightDate": "1986-12-25",
+        "Price": 11.668,
+        "CurrencyCode": "Curr1",
+        "PlaneType": "PlaneType1",
+        "MaximumSeats": 1065708616,
+        "OccupiedSeats": 853862785
+    },
+    {
+        "AirlineID": "rSv",
+        "AirlineID_Text": "AirlineID_Text2",
+        "ConnectionID": "RtnT",
+        "FlightDate": "1988-12-11",
+        "Price": 12.948,
+        "CurrencyCode": "Curr2",
+        "PlaneType": "PlaneType2",
+        "MaximumSeats": 857193893,
+        "OccupiedSeats": 311509555
+    },
+    {
+        "AirlineID": "sMr",
+        "AirlineID_Text": "AirlineID_Text3",
+        "ConnectionID": "siSz",
+        "FlightDate": "2013-06-28",
+        "Price": 3.945,
+        "CurrencyCode": "Curr3",
+        "PlaneType": "PlaneType3",
+        "MaximumSeats": 1979415517,
+        "OccupiedSeats": 1826822255
+    },
+    {
+        "AirlineID": "KMG",
+        "AirlineID_Text": "AirlineID_Text4",
+        "ConnectionID": "Khbn",
+        "FlightDate": "1985-02-03",
+        "Price": 14.082,
+        "CurrencyCode": "Curr4",
+        "PlaneType": "PlaneType4",
+        "MaximumSeats": 2010210653,
+        "OccupiedSeats": 2082607245
+    },
+    {
+        "AirlineID": "CgJ",
+        "AirlineID_Text": "AirlineID_Text5",
+        "ConnectionID": "ZFXv",
+        "FlightDate": "2013-07-13",
+        "Price": 5.693,
+        "CurrencyCode": "Curr5",
+        "PlaneType": "PlaneType5",
+        "MaximumSeats": 260443526,
+        "OccupiedSeats": 1058203087
+    },
+    {
+        "AirlineID": "jPH",
+        "AirlineID_Text": "AirlineID_Text6",
+        "ConnectionID": "SgTB",
+        "FlightDate": "1987-10-26",
+        "Price": 5.58,
+        "CurrencyCode": "Curr6",
+        "PlaneType": "PlaneType6",
+        "MaximumSeats": 181954929,
+        "OccupiedSeats": 1623487986
+    },
+    {
+        "AirlineID": "XKL",
+        "AirlineID_Text": "AirlineID_Text7",
+        "ConnectionID": "LOVv",
+        "FlightDate": "2009-02-11",
+        "Price": 9.793,
+        "CurrencyCode": "Curr7",
+        "PlaneType": "PlaneType7",
+        "MaximumSeats": 1076137325,
+        "OccupiedSeats": 1391690024
+    },
+    {
+        "AirlineID": "fxF",
+        "AirlineID_Text": "AirlineID_Text8",
+        "ConnectionID": "GkOi",
+        "FlightDate": "1993-09-02",
+        "Price": 12.43,
+        "CurrencyCode": "Curr8",
+        "PlaneType": "PlaneType8",
+        "MaximumSeats": 1200626466,
+        "OccupiedSeats": 1690217845
+    },
+    {
+        "AirlineID": "hLP",
+        "AirlineID_Text": "AirlineID_Text9",
+        "ConnectionID": "BvIR",
+        "FlightDate": "1971-10-30",
+        "Price": 8.232,
+        "CurrencyCode": "Curr9",
+        "PlaneType": "PlaneType9",
+        "MaximumSeats": 1119492570,
+        "OccupiedSeats": 1356792678
+    },
+    {
+        "AirlineID": "Rsu",
+        "AirlineID_Text": "AirlineID_Text10",
+        "ConnectionID": "SWGD",
+        "FlightDate": "2005-02-25",
+        "Price": 9.301,
+        "CurrencyCode": "Cur10",
+        "PlaneType": "PlaneTyp10",
+        "MaximumSeats": 1749576227,
+        "OccupiedSeats": 1543375495
+    },
+    {
+        "AirlineID": "UFZ",
+        "AirlineID_Text": "AirlineID_Text11",
+        "ConnectionID": "loIx",
+        "FlightDate": "1972-11-19",
+        "Price": 7.798,
+        "CurrencyCode": "Cur11",
+        "PlaneType": "PlaneTyp11",
+        "MaximumSeats": 147810008,
+        "OccupiedSeats": 927909907
+    },
+    {
+        "AirlineID": "oVL",
+        "AirlineID_Text": "AirlineID_Text12",
+        "ConnectionID": "mLfi",
+        "FlightDate": "1972-04-01",
+        "Price": 3.479,
+        "CurrencyCode": "Cur12",
+        "PlaneType": "PlaneTyp12",
+        "MaximumSeats": 184338411,
+        "OccupiedSeats": 878445430
+    },
+    {
+        "AirlineID": "YxJ",
+        "AirlineID_Text": "AirlineID_Text13",
+        "ConnectionID": "Optw",
+        "FlightDate": "1975-08-19",
+        "Price": 0.762,
+        "CurrencyCode": "Cur13",
+        "PlaneType": "PlaneTyp13",
+        "MaximumSeats": 2111019983,
+        "OccupiedSeats": 427318723
+    },
+    {
+        "AirlineID": "fnT",
+        "AirlineID_Text": "AirlineID_Text14",
+        "ConnectionID": "waGn",
+        "FlightDate": "1997-12-30",
+        "Price": 14.718,
+        "CurrencyCode": "Cur14",
+        "PlaneType": "PlaneTyp14",
+        "MaximumSeats": 968264265,
+        "OccupiedSeats": 1487129634
+    },
+    {
+        "AirlineID": "cNb",
+        "AirlineID_Text": "AirlineID_Text15",
+        "ConnectionID": "dzlE",
+        "FlightDate": "1999-02-28",
+        "Price": 0.894,
+        "CurrencyCode": "Cur15",
+        "PlaneType": "PlaneTyp15",
+        "MaximumSeats": 1704653568,
+        "OccupiedSeats": 39862296
+    },
+    {
+        "AirlineID": "pmx",
+        "AirlineID_Text": "AirlineID_Text16",
+        "ConnectionID": "APyq",
+        "FlightDate": "2011-07-29",
+        "Price": 10.563,
+        "CurrencyCode": "Cur16",
+        "PlaneType": "PlaneTyp16",
+        "MaximumSeats": 891533194,
+        "OccupiedSeats": 2126335958
+    },
+    {
+        "AirlineID": "Nic",
+        "AirlineID_Text": "AirlineID_Text17",
+        "ConnectionID": "bdYp",
+        "FlightDate": "2014-04-02",
+        "Price": 11.071,
+        "CurrencyCode": "Cur17",
+        "PlaneType": "PlaneTyp17",
+        "MaximumSeats": 2049826735,
+        "OccupiedSeats": 21353105
+    },
+    {
+        "AirlineID": "laX",
+        "AirlineID_Text": "AirlineID_Text18",
+        "ConnectionID": "Nwfg",
+        "FlightDate": "2015-09-23",
+        "Price": 14.204,
+        "CurrencyCode": "Cur18",
+        "PlaneType": "PlaneTyp18",
+        "MaximumSeats": 414543571,
+        "OccupiedSeats": 380403459
+    },
+    {
+        "AirlineID": "tAa",
+        "AirlineID_Text": "AirlineID_Text19",
+        "ConnectionID": "mAKw",
+        "FlightDate": "1989-06-06",
+        "Price": 4.893,
+        "CurrencyCode": "Cur19",
+        "PlaneType": "PlaneTyp19",
+        "MaximumSeats": 386052387,
+        "OccupiedSeats": 874726983
+    },
+    {
+        "AirlineID": "yMA",
+        "AirlineID_Text": "AirlineID_Text20",
+        "ConnectionID": "uOvR",
+        "FlightDate": "1985-05-04",
+        "Price": 0.207,
+        "CurrencyCode": "Cur20",
+        "PlaneType": "PlaneTyp20",
+        "MaximumSeats": 9861593,
+        "OccupiedSeats": 452579326
+    }
+]

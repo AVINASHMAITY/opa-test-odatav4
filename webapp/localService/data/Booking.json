@@ -1,0 +1,702 @@
+[
+    {
+        "BookingUUID": "5274fa71-56c2-54a3-9a6b-b33c06e4af55",
+        "BookingID": "Boo1",
+        "BookingDate": "1994-10-28",
+        "CustomerID": "Custo1",
+        "LastName": "LastName1",
+        "CarrierID": "Ca1",
+        "CarrierName": "CarrierName1",
+        "ConnectionID": "Con1",
+        "FlightDate": "2011-09-03",
+        "FlightPrice": 9.468,
+        "CurrencyCode": "Curr1",
+        "CreatedBy": "CreatedBy1",
+        "LastChangedBy": "LastChanged1",
+        "LocalLastChangedAt": "1996-07-15T04:09:24",
+        "HasDraftEntity": true,
+        "DraftEntityCreationDateTime": "1979-06-27T14:06:35",
+        "DraftEntityLastChangeDateTime": "2009-03-23T01:53:50",
+        "HasActiveEntity": false,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code10",
+                "message": "message10",
+                "target": "target10",
+                "additionalTargets": [
+                    "additionalTargets10"
+                ],
+                "transition": false,
+                "numericSeverity": 243,
+                "longtextUrl": "longtextUrl10"
+            }
+        ],
+        "TravelUUID": "b51e9e9f-2b3d-588a-be89-ea1c23a0c313"
+    },
+    {
+        "BookingUUID": "24ee8cad-1c6e-52de-a9dc-0cce67a22ec8",
+        "BookingID": "Boo2",
+        "BookingDate": "1993-08-02",
+        "CustomerID": "Custo2",
+        "LastName": "LastName2",
+        "CarrierID": "Ca2",
+        "CarrierName": "CarrierName2",
+        "ConnectionID": "Con2",
+        "FlightDate": "2004-08-03",
+        "FlightPrice": 9.002,
+        "CurrencyCode": "Curr2",
+        "CreatedBy": "CreatedBy2",
+        "LastChangedBy": "LastChanged2",
+        "LocalLastChangedAt": "1997-10-20T11:55:34",
+        "HasDraftEntity": true,
+        "DraftEntityCreationDateTime": "1972-12-17T04:13:16",
+        "DraftEntityLastChangeDateTime": "1994-07-07T04:12:07",
+        "HasActiveEntity": false,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code8",
+                "message": "message8",
+                "target": "target8",
+                "additionalTargets": [
+                    "additionalTargets8"
+                ],
+                "transition": false,
+                "numericSeverity": 87,
+                "longtextUrl": "longtextUrl8"
+            }
+        ],
+        "TravelUUID": "fa4f3516-7edf-5665-8c5d-9494f79cfd77"
+    },
+    {
+        "BookingUUID": "de82c876-48fc-50ba-80d6-cdcf6a3025af",
+        "BookingID": "Boo3",
+        "BookingDate": "1979-03-03",
+        "CustomerID": "Custo3",
+        "LastName": "LastName3",
+        "CarrierID": "Ca3",
+        "CarrierName": "CarrierName3",
+        "ConnectionID": "Con3",
+        "FlightDate": "2010-03-03",
+        "FlightPrice": 5.59,
+        "CurrencyCode": "Curr3",
+        "CreatedBy": "CreatedBy3",
+        "LastChangedBy": "LastChanged3",
+        "LocalLastChangedAt": "1980-09-19T17:51:36",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1982-04-13T16:18:52",
+        "DraftEntityLastChangeDateTime": "2005-05-22T14:51:45",
+        "HasActiveEntity": true,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code3",
+                "message": "message3",
+                "target": "target3",
+                "additionalTargets": [
+                    "additionalTargets3"
+                ],
+                "transition": true,
+                "numericSeverity": 255,
+                "longtextUrl": "longtextUrl3"
+            }
+        ],
+        "TravelUUID": "ae1f26d0-0b72-58c1-8353-cfea0dd15bf2"
+    },
+    {
+        "BookingUUID": "c3374e19-d606-5c2c-b2b6-d9f823f95c64",
+        "BookingID": "Boo4",
+        "BookingDate": "2000-12-10",
+        "CustomerID": "Custo4",
+        "LastName": "LastName4",
+        "CarrierID": "Ca4",
+        "CarrierName": "CarrierName4",
+        "ConnectionID": "Con4",
+        "FlightDate": "1985-07-26",
+        "FlightPrice": 7.763,
+        "CurrencyCode": "Curr4",
+        "CreatedBy": "CreatedBy4",
+        "LastChangedBy": "LastChanged4",
+        "LocalLastChangedAt": "1984-06-12T05:49:06",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1978-12-13T15:43:56",
+        "DraftEntityLastChangeDateTime": "1974-11-28T10:56:36",
+        "HasActiveEntity": true,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code16",
+                "message": "message16",
+                "target": "target16",
+                "additionalTargets": [
+                    "additionalTargets16"
+                ],
+                "transition": true,
+                "numericSeverity": 185,
+                "longtextUrl": "longtextUrl16"
+            }
+        ],
+        "TravelUUID": "c2379d1b-e8c6-5d04-bf50-e1b91bc8f7a4"
+    },
+    {
+        "BookingUUID": "1f3793ed-bfb3-580c-89c7-b0926a3724da",
+        "BookingID": "Boo5",
+        "BookingDate": "2009-06-21",
+        "CustomerID": "Custo5",
+        "LastName": "LastName5",
+        "CarrierID": "Ca5",
+        "CarrierName": "CarrierName5",
+        "ConnectionID": "Con5",
+        "FlightDate": "1990-06-12",
+        "FlightPrice": 12.859,
+        "CurrencyCode": "Curr5",
+        "CreatedBy": "CreatedBy5",
+        "LastChangedBy": "LastChanged5",
+        "LocalLastChangedAt": "1984-01-15T13:26:20",
+        "HasDraftEntity": true,
+        "DraftEntityCreationDateTime": "1987-12-29T19:34:40",
+        "DraftEntityLastChangeDateTime": "1992-07-16T20:51:45",
+        "HasActiveEntity": false,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code4",
+                "message": "message4",
+                "target": "target4",
+                "additionalTargets": [
+                    "additionalTargets4"
+                ],
+                "transition": true,
+                "numericSeverity": 208,
+                "longtextUrl": "longtextUrl4"
+            }
+        ],
+        "TravelUUID": "e4baac92-8cbe-567b-a109-d152dc4b4395"
+    },
+    {
+        "BookingUUID": "00e68f5d-03d0-5695-bfa8-36fc4c220aeb",
+        "BookingID": "Boo6",
+        "BookingDate": "1998-07-08",
+        "CustomerID": "Custo6",
+        "LastName": "LastName6",
+        "CarrierID": "Ca6",
+        "CarrierName": "CarrierName6",
+        "ConnectionID": "Con6",
+        "FlightDate": "1998-12-08",
+        "FlightPrice": 12.488,
+        "CurrencyCode": "Curr6",
+        "CreatedBy": "CreatedBy6",
+        "LastChangedBy": "LastChanged6",
+        "LocalLastChangedAt": "1970-05-19T10:43:46",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1978-12-28T15:03:31",
+        "DraftEntityLastChangeDateTime": "1976-06-26T02:32:03",
+        "HasActiveEntity": true,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code10",
+                "message": "message10",
+                "target": "target10",
+                "additionalTargets": [
+                    "additionalTargets10"
+                ],
+                "transition": false,
+                "numericSeverity": 243,
+                "longtextUrl": "longtextUrl10"
+            }
+        ],
+        "TravelUUID": "4256ec4d-501c-5556-8c87-feaccd653919"
+    },
+    {
+        "BookingUUID": "cc0cb307-d893-5fb3-99af-e428fc927571",
+        "BookingID": "Boo7",
+        "BookingDate": "2005-10-16",
+        "CustomerID": "Custo7",
+        "LastName": "LastName7",
+        "CarrierID": "Ca7",
+        "CarrierName": "CarrierName7",
+        "ConnectionID": "Con7",
+        "FlightDate": "2003-02-19",
+        "FlightPrice": 6.826,
+        "CurrencyCode": "Curr7",
+        "CreatedBy": "CreatedBy7",
+        "LastChangedBy": "LastChanged7",
+        "LocalLastChangedAt": "1989-04-06T11:23:52",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1995-04-01T22:25:03",
+        "DraftEntityLastChangeDateTime": "1970-05-09T06:59:32",
+        "HasActiveEntity": true,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code12",
+                "message": "message12",
+                "target": "target12",
+                "additionalTargets": [
+                    "additionalTargets12"
+                ],
+                "transition": false,
+                "numericSeverity": 53,
+                "longtextUrl": "longtextUrl12"
+            }
+        ],
+        "TravelUUID": "70a0a30e-50fd-50e8-b900-43d72086a4ea"
+    },
+    {
+        "BookingUUID": "6447198b-0909-581e-ac1b-e21ed2381853",
+        "BookingID": "Boo8",
+        "BookingDate": "1983-09-10",
+        "CustomerID": "Custo8",
+        "LastName": "LastName8",
+        "CarrierID": "Ca8",
+        "CarrierName": "CarrierName8",
+        "ConnectionID": "Con8",
+        "FlightDate": "1992-11-10",
+        "FlightPrice": 2.438,
+        "CurrencyCode": "Curr8",
+        "CreatedBy": "CreatedBy8",
+        "LastChangedBy": "LastChanged8",
+        "LocalLastChangedAt": "2007-05-07T01:32:48",
+        "HasDraftEntity": true,
+        "DraftEntityCreationDateTime": "1976-04-02T18:08:46",
+        "DraftEntityLastChangeDateTime": "2016-03-07T14:42:54",
+        "HasActiveEntity": true,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code7",
+                "message": "message7",
+                "target": "target7",
+                "additionalTargets": [
+                    "additionalTargets7"
+                ],
+                "transition": false,
+                "numericSeverity": 207,
+                "longtextUrl": "longtextUrl7"
+            }
+        ],
+        "TravelUUID": "00695b04-66e0-537a-9f78-635d538ec9ac"
+    },
+    {
+        "BookingUUID": "e7e2bcb7-d2c6-5b5d-be1b-61a8ead1f187",
+        "BookingID": "Boo9",
+        "BookingDate": "1977-05-28",
+        "CustomerID": "Custo9",
+        "LastName": "LastName9",
+        "CarrierID": "Ca9",
+        "CarrierName": "CarrierName9",
+        "ConnectionID": "Con9",
+        "FlightDate": "2007-02-21",
+        "FlightPrice": 2.918,
+        "CurrencyCode": "Curr9",
+        "CreatedBy": "CreatedBy9",
+        "LastChangedBy": "LastChanged9",
+        "LocalLastChangedAt": "2010-04-09T07:33:21",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1993-10-22T17:31:15",
+        "DraftEntityLastChangeDateTime": "1994-09-27T11:47:26",
+        "HasActiveEntity": false,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code11",
+                "message": "message11",
+                "target": "target11",
+                "additionalTargets": [
+                    "additionalTargets11"
+                ],
+                "transition": false,
+                "numericSeverity": 52,
+                "longtextUrl": "longtextUrl11"
+            }
+        ],
+        "TravelUUID": "702ec7b0-d81b-523e-b914-6755c5ccebce"
+    },
+    {
+        "BookingUUID": "dd3f54bd-9dab-54ca-8615-7018c3709082",
+        "BookingID": "Bo10",
+        "BookingDate": "1976-02-02",
+        "CustomerID": "Cust10",
+        "LastName": "LastName10",
+        "CarrierID": "C10",
+        "CarrierName": "CarrierName10",
+        "ConnectionID": "Co10",
+        "FlightDate": "1989-03-23",
+        "FlightPrice": 12.437,
+        "CurrencyCode": "Cur10",
+        "CreatedBy": "CreatedBy10",
+        "LastChangedBy": "LastChange10",
+        "LocalLastChangedAt": "1994-03-11T04:57:13",
+        "HasDraftEntity": true,
+        "DraftEntityCreationDateTime": "2011-06-05T03:45:58",
+        "DraftEntityLastChangeDateTime": "2015-05-19T04:39:35",
+        "HasActiveEntity": true,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code11",
+                "message": "message11",
+                "target": "target11",
+                "additionalTargets": [
+                    "additionalTargets11"
+                ],
+                "transition": false,
+                "numericSeverity": 52,
+                "longtextUrl": "longtextUrl11"
+            }
+        ],
+        "TravelUUID": "4bd37d4b-ca2f-5efb-bc0b-b41469d9bf22"
+    },
+    {
+        "BookingUUID": "606b6bc3-5f1c-500d-9c54-334d0d4a8ba1",
+        "BookingID": "Bo11",
+        "BookingDate": "2004-10-11",
+        "CustomerID": "Cust11",
+        "LastName": "LastName11",
+        "CarrierID": "C11",
+        "CarrierName": "CarrierName11",
+        "ConnectionID": "Co11",
+        "FlightDate": "2003-06-07",
+        "FlightPrice": 9.584,
+        "CurrencyCode": "Cur11",
+        "CreatedBy": "CreatedBy11",
+        "LastChangedBy": "LastChange11",
+        "LocalLastChangedAt": "1990-04-04T06:33:49",
+        "HasDraftEntity": true,
+        "DraftEntityCreationDateTime": "2008-05-25T03:50:28",
+        "DraftEntityLastChangeDateTime": "2009-05-18T03:09:11",
+        "HasActiveEntity": false,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code3",
+                "message": "message3",
+                "target": "target3",
+                "additionalTargets": [
+                    "additionalTargets3"
+                ],
+                "transition": true,
+                "numericSeverity": 255,
+                "longtextUrl": "longtextUrl3"
+            }
+        ],
+        "TravelUUID": "3bac7cc8-8904-50b2-9873-ab1295d4f044"
+    },
+    {
+        "BookingUUID": "8d983d2d-abb6-545b-b6a2-cc83bf961c26",
+        "BookingID": "Bo12",
+        "BookingDate": "2008-05-14",
+        "CustomerID": "Cust12",
+        "LastName": "LastName12",
+        "CarrierID": "C12",
+        "CarrierName": "CarrierName12",
+        "ConnectionID": "Co12",
+        "FlightDate": "1977-11-07",
+        "FlightPrice": 0.272,
+        "CurrencyCode": "Cur12",
+        "CreatedBy": "CreatedBy12",
+        "LastChangedBy": "LastChange12",
+        "LocalLastChangedAt": "2009-08-31T22:32:34",
+        "HasDraftEntity": true,
+        "DraftEntityCreationDateTime": "1994-07-18T12:12:44",
+        "DraftEntityLastChangeDateTime": "2002-03-27T21:10:26",
+        "HasActiveEntity": false,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code2",
+                "message": "message2",
+                "target": "target2",
+                "additionalTargets": [
+                    "additionalTargets2"
+                ],
+                "transition": true,
+                "numericSeverity": 95,
+                "longtextUrl": "longtextUrl2"
+            }
+        ],
+        "TravelUUID": "45196609-9c2a-532f-bb0d-00ffa3374cdc"
+    },
+    {
+        "BookingUUID": "7a563e92-cd85-5949-90ac-b9f5b8ac2cda",
+        "BookingID": "Bo13",
+        "BookingDate": "1970-03-25",
+        "CustomerID": "Cust13",
+        "LastName": "LastName13",
+        "CarrierID": "C13",
+        "CarrierName": "CarrierName13",
+        "ConnectionID": "Co13",
+        "FlightDate": "2014-01-08",
+        "FlightPrice": 4.429,
+        "CurrencyCode": "Cur13",
+        "CreatedBy": "CreatedBy13",
+        "LastChangedBy": "LastChange13",
+        "LocalLastChangedAt": "1997-07-07T06:14:43",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1976-06-11T21:38:00",
+        "DraftEntityLastChangeDateTime": "1979-03-03T13:32:55",
+        "HasActiveEntity": true,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code9",
+                "message": "message9",
+                "target": "target9",
+                "additionalTargets": [
+                    "additionalTargets9"
+                ],
+                "transition": true,
+                "numericSeverity": 17,
+                "longtextUrl": "longtextUrl9"
+            }
+        ],
+        "TravelUUID": "eb388427-5132-526c-9927-0d215f6be07a"
+    },
+    {
+        "BookingUUID": "a46f1c3b-2398-593f-8914-2d8d80fd04c4",
+        "BookingID": "Bo14",
+        "BookingDate": "1977-02-06",
+        "CustomerID": "Cust14",
+        "LastName": "LastName14",
+        "CarrierID": "C14",
+        "CarrierName": "CarrierName14",
+        "ConnectionID": "Co14",
+        "FlightDate": "2009-08-28",
+        "FlightPrice": 9.6,
+        "CurrencyCode": "Cur14",
+        "CreatedBy": "CreatedBy14",
+        "LastChangedBy": "LastChange14",
+        "LocalLastChangedAt": "1992-07-29T01:01:48",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1996-10-19T18:12:30",
+        "DraftEntityLastChangeDateTime": "1970-12-01T11:21:30",
+        "HasActiveEntity": true,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code14",
+                "message": "message14",
+                "target": "target14",
+                "additionalTargets": [
+                    "additionalTargets14"
+                ],
+                "transition": true,
+                "numericSeverity": 57,
+                "longtextUrl": "longtextUrl14"
+            }
+        ],
+        "TravelUUID": "a2c5932c-f730-5bf5-847e-7f15dffbbc4c"
+    },
+    {
+        "BookingUUID": "fff7fb5e-b926-5a22-98a7-c363646f3a12",
+        "BookingID": "Bo15",
+        "BookingDate": "1999-08-30",
+        "CustomerID": "Cust15",
+        "LastName": "LastName15",
+        "CarrierID": "C15",
+        "CarrierName": "CarrierName15",
+        "ConnectionID": "Co15",
+        "FlightDate": "1975-11-08",
+        "FlightPrice": 2.644,
+        "CurrencyCode": "Cur15",
+        "CreatedBy": "CreatedBy15",
+        "LastChangedBy": "LastChange15",
+        "LocalLastChangedAt": "1995-03-25T20:53:59",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1998-04-19T21:24:07",
+        "DraftEntityLastChangeDateTime": "1997-06-01T14:57:13",
+        "HasActiveEntity": false,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code5",
+                "message": "message5",
+                "target": "target5",
+                "additionalTargets": [
+                    "additionalTargets5"
+                ],
+                "transition": true,
+                "numericSeverity": 250,
+                "longtextUrl": "longtextUrl5"
+            }
+        ],
+        "TravelUUID": "97177f0a-ca41-5302-8d4c-5359ed3a0ec2"
+    },
+    {
+        "BookingUUID": "59445e2e-6832-53b0-bb3e-4c12623e7d5c",
+        "BookingID": "Bo16",
+        "BookingDate": "1996-12-15",
+        "CustomerID": "Cust16",
+        "LastName": "LastName16",
+        "CarrierID": "C16",
+        "CarrierName": "CarrierName16",
+        "ConnectionID": "Co16",
+        "FlightDate": "1996-06-05",
+        "FlightPrice": 14.522,
+        "CurrencyCode": "Cur16",
+        "CreatedBy": "CreatedBy16",
+        "LastChangedBy": "LastChange16",
+        "LocalLastChangedAt": "2002-04-18T09:11:23",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "2005-05-28T04:51:42",
+        "DraftEntityLastChangeDateTime": "1981-11-01T02:50:09",
+        "HasActiveEntity": true,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code7",
+                "message": "message7",
+                "target": "target7",
+                "additionalTargets": [
+                    "additionalTargets7"
+                ],
+                "transition": false,
+                "numericSeverity": 207,
+                "longtextUrl": "longtextUrl7"
+            }
+        ],
+        "TravelUUID": "01aa3506-b461-572b-8802-2eaa6ca39f7f"
+    },
+    {
+        "BookingUUID": "7a245381-4ada-58bc-b0f4-a060af211882",
+        "BookingID": "Bo17",
+        "BookingDate": "2016-02-17",
+        "CustomerID": "Cust17",
+        "LastName": "LastName17",
+        "CarrierID": "C17",
+        "CarrierName": "CarrierName17",
+        "ConnectionID": "Co17",
+        "FlightDate": "1990-02-18",
+        "FlightPrice": 14.896,
+        "CurrencyCode": "Cur17",
+        "CreatedBy": "CreatedBy17",
+        "LastChangedBy": "LastChange17",
+        "LocalLastChangedAt": "1998-12-24T16:01:04",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1996-01-03T16:38:34",
+        "DraftEntityLastChangeDateTime": "1980-12-03T17:01:33",
+        "HasActiveEntity": true,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code4",
+                "message": "message4",
+                "target": "target4",
+                "additionalTargets": [
+                    "additionalTargets4"
+                ],
+                "transition": true,
+                "numericSeverity": 208,
+                "longtextUrl": "longtextUrl4"
+            }
+        ],
+        "TravelUUID": "4fdb6f48-6578-585a-a60a-2b3b7b4804cd"
+    },
+    {
+        "BookingUUID": "1654277f-6d89-50fe-8edc-3a5dc316d37d",
+        "BookingID": "Bo18",
+        "BookingDate": "1971-02-04",
+        "CustomerID": "Cust18",
+        "LastName": "LastName18",
+        "CarrierID": "C18",
+        "CarrierName": "CarrierName18",
+        "ConnectionID": "Co18",
+        "FlightDate": "2000-12-09",
+        "FlightPrice": 3.843,
+        "CurrencyCode": "Cur18",
+        "CreatedBy": "CreatedBy18",
+        "LastChangedBy": "LastChange18",
+        "LocalLastChangedAt": "1996-10-14T18:19:25",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "2013-02-27T01:24:07",
+        "DraftEntityLastChangeDateTime": "1993-09-13T02:09:00",
+        "HasActiveEntity": false,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code9",
+                "message": "message9",
+                "target": "target9",
+                "additionalTargets": [
+                    "additionalTargets9"
+                ],
+                "transition": true,
+                "numericSeverity": 17,
+                "longtextUrl": "longtextUrl9"
+            }
+        ],
+        "TravelUUID": "2b0aaa49-0f43-5c80-9e0c-710aac67551b"
+    },
+    {
+        "BookingUUID": "b50abbe9-9b2f-5865-8790-d26de47a7fe9",
+        "BookingID": "Bo19",
+        "BookingDate": "2002-04-17",
+        "CustomerID": "Cust19",
+        "LastName": "LastName19",
+        "CarrierID": "C19",
+        "CarrierName": "CarrierName19",
+        "ConnectionID": "Co19",
+        "FlightDate": "1988-10-17",
+        "FlightPrice": 4.436,
+        "CurrencyCode": "Cur19",
+        "CreatedBy": "CreatedBy19",
+        "LastChangedBy": "LastChange19",
+        "LocalLastChangedAt": "2003-10-29T10:16:03",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1986-09-30T21:44:18",
+        "DraftEntityLastChangeDateTime": "2008-05-29T03:01:55",
+        "HasActiveEntity": false,
+        "IsActiveEntity": true,
+        "SAP__Messages": [
+            {
+                "code": "code8",
+                "message": "message8",
+                "target": "target8",
+                "additionalTargets": [
+                    "additionalTargets8"
+                ],
+                "transition": false,
+                "numericSeverity": 87,
+                "longtextUrl": "longtextUrl8"
+            }
+        ],
+        "TravelUUID": "f96ad9eb-8a81-5f7b-b098-9c0e77502508"
+    },
+    {
+        "BookingUUID": "2ca0893b-7f0f-5f9e-999a-e2b1f76d3d76",
+        "BookingID": "Bo20",
+        "BookingDate": "2011-12-17",
+        "CustomerID": "Cust20",
+        "LastName": "LastName20",
+        "CarrierID": "C20",
+        "CarrierName": "CarrierName20",
+        "ConnectionID": "Co20",
+        "FlightDate": "1975-04-27",
+        "FlightPrice": 4.348,
+        "CurrencyCode": "Cur20",
+        "CreatedBy": "CreatedBy20",
+        "LastChangedBy": "LastChange20",
+        "LocalLastChangedAt": "1999-11-04T10:57:51",
+        "HasDraftEntity": false,
+        "DraftEntityCreationDateTime": "1991-09-29T20:11:20",
+        "DraftEntityLastChangeDateTime": "1982-11-19T03:59:58",
+        "HasActiveEntity": true,
+        "IsActiveEntity": false,
+        "SAP__Messages": [
+            {
+                "code": "code12",
+                "message": "message12",
+                "target": "target12",
+                "additionalTargets": [
+                    "additionalTargets12"
+                ],
+                "transition": false,
+                "numericSeverity": 53,
+                "longtextUrl": "longtextUrl12"
+            }
+        ],
+        "TravelUUID": "b1bcc9be-fcd7-56a2-b001-f1398cda9d82"
+    }
+]

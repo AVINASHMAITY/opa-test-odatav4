@@ -1,0 +1,222 @@
+[
+    {
+        "AirlineID": "CUP",
+        "AirlineID_Text": "AirlineID_Text1",
+        "ConnectionID": "izoC",
+        "DepartureAirport": "De1",
+        "DestinationAirport": "De1",
+        "DepartureTime": "06:08:35",
+        "ArrivalTime": "12:12:46",
+        "Distance": 3364444067.7,
+        "DistanceUnit": "Di1"
+    },
+    {
+        "AirlineID": "gnk",
+        "AirlineID_Text": "AirlineID_Text2",
+        "ConnectionID": "QLvg",
+        "DepartureAirport": "De2",
+        "DestinationAirport": "De2",
+        "DepartureTime": "17:26:18",
+        "ArrivalTime": "12:26:45",
+        "Distance": 6129049435.25,
+        "DistanceUnit": "Di2"
+    },
+    {
+        "AirlineID": "Tpk",
+        "AirlineID_Text": "AirlineID_Text3",
+        "ConnectionID": "vqWV",
+        "DepartureAirport": "De3",
+        "DestinationAirport": "De3",
+        "DepartureTime": "15:00:23",
+        "ArrivalTime": "03:08:12",
+        "Distance": 9127182478.55,
+        "DistanceUnit": "Di3"
+    },
+    {
+        "AirlineID": "oYN",
+        "AirlineID_Text": "AirlineID_Text4",
+        "ConnectionID": "pqZi",
+        "DepartureAirport": "De4",
+        "DestinationAirport": "De4",
+        "DepartureTime": "12:36:59",
+        "ArrivalTime": "08:44:07",
+        "Distance": 2910494364.33,
+        "DistanceUnit": "Di4"
+    },
+    {
+        "AirlineID": "fOk",
+        "AirlineID_Text": "AirlineID_Text5",
+        "ConnectionID": "zHPa",
+        "DepartureAirport": "De5",
+        "DestinationAirport": "De5",
+        "DepartureTime": "08:43:20",
+        "ArrivalTime": "03:10:05",
+        "Distance": 6580022356.93,
+        "DistanceUnit": "Di5"
+    },
+    {
+        "AirlineID": "Ghv",
+        "AirlineID_Text": "AirlineID_Text6",
+        "ConnectionID": "BvNX",
+        "DepartureAirport": "De6",
+        "DestinationAirport": "De6",
+        "DepartureTime": "18:38:38",
+        "ArrivalTime": "10:04:42",
+        "Distance": 1061713325.32,
+        "DistanceUnit": "Di6"
+    },
+    {
+        "AirlineID": "nsA",
+        "AirlineID_Text": "AirlineID_Text7",
+        "ConnectionID": "gFWM",
+        "DepartureAirport": "De7",
+        "DestinationAirport": "De7",
+        "DepartureTime": "00:05:15",
+        "ArrivalTime": "11:43:02",
+        "Distance": 411297874.52,
+        "DistanceUnit": "Di7"
+    },
+    {
+        "AirlineID": "KrD",
+        "AirlineID_Text": "AirlineID_Text8",
+        "ConnectionID": "UfhT",
+        "DepartureAirport": "De8",
+        "DestinationAirport": "De8",
+        "DepartureTime": "07:25:13",
+        "ArrivalTime": "20:49:31",
+        "Distance": 8049458421.3,
+        "DistanceUnit": "Di8"
+    },
+    {
+        "AirlineID": "nPA",
+        "AirlineID_Text": "AirlineID_Text9",
+        "ConnectionID": "Bfvw",
+        "DepartureAirport": "De9",
+        "DestinationAirport": "De9",
+        "DepartureTime": "01:09:15",
+        "ArrivalTime": "19:44:04",
+        "Distance": 7585340517.1,
+        "DistanceUnit": "Di9"
+    },
+    {
+        "AirlineID": "yED",
+        "AirlineID_Text": "AirlineID_Text10",
+        "ConnectionID": "ctNI",
+        "DepartureAirport": "D10",
+        "DestinationAirport": "D10",
+        "DepartureTime": "18:38:10",
+        "ArrivalTime": "21:33:15",
+        "Distance": 6784287882.03,
+        "DistanceUnit": "D10"
+    },
+    {
+        "AirlineID": "yML",
+        "AirlineID_Text": "AirlineID_Text11",
+        "ConnectionID": "YRHF",
+        "DepartureAirport": "D11",
+        "DestinationAirport": "D11",
+        "DepartureTime": "00:43:42",
+        "ArrivalTime": "13:43:29",
+        "Distance": 5574715214.31,
+        "DistanceUnit": "D11"
+    },
+    {
+        "AirlineID": "JjP",
+        "AirlineID_Text": "AirlineID_Text12",
+        "ConnectionID": "qGjT",
+        "DepartureAirport": "D12",
+        "DestinationAirport": "D12",
+        "DepartureTime": "12:50:35",
+        "ArrivalTime": "02:33:32",
+        "Distance": 6854598228.81,
+        "DistanceUnit": "D12"
+    },
+    {
+        "AirlineID": "ewh",
+        "AirlineID_Text": "AirlineID_Text13",
+        "ConnectionID": "Acuz",
+        "DepartureAirport": "D13",
+        "DestinationAirport": "D13",
+        "DepartureTime": "15:38:59",
+        "ArrivalTime": "03:36:48",
+        "Distance": 198515751.39,
+        "DistanceUnit": "D13"
+    },
+    {
+        "AirlineID": "Utf",
+        "AirlineID_Text": "AirlineID_Text14",
+        "ConnectionID": "hzbo",
+        "DepartureAirport": "D14",
+        "DestinationAirport": "D14",
+        "DepartureTime": "09:05:17",
+        "ArrivalTime": "10:33:04",
+        "Distance": 9082171726.04,
+        "DistanceUnit": "D14"
+    },
+    {
+        "AirlineID": "LLP",
+        "AirlineID_Text": "AirlineID_Text15",
+        "ConnectionID": "ZxJR",
+        "DepartureAirport": "D15",
+        "DestinationAirport": "D15",
+        "DepartureTime": "13:17:45",
+        "ArrivalTime": "02:37:18",
+        "Distance": 2473257516.97,
+        "DistanceUnit": "D15"
+    },
+    {
+        "AirlineID": "VmG",
+        "AirlineID_Text": "AirlineID_Text16",
+        "ConnectionID": "KAnx",
+        "DepartureAirport": "D16",
+        "DestinationAirport": "D16",
+        "DepartureTime": "16:06:58",
+        "ArrivalTime": "22:14:53",
+        "Distance": 7299466421.82,
+        "DistanceUnit": "D16"
+    },
+    {
+        "AirlineID": "vDH",
+        "AirlineID_Text": "AirlineID_Text17",
+        "ConnectionID": "tiyy",
+        "DepartureAirport": "D17",
+        "DestinationAirport": "D17",
+        "DepartureTime": "07:01:26",
+        "ArrivalTime": "05:50:26",
+        "Distance": 6933625380.04,
+        "DistanceUnit": "D17"
+    },
+    {
+        "AirlineID": "yWa",
+        "AirlineID_Text": "AirlineID_Text18",
+        "ConnectionID": "EKeI",
+        "DepartureAirport": "D18",
+        "DestinationAirport": "D18",
+        "DepartureTime": "09:09:39",
+        "ArrivalTime": "03:22:35",
+        "Distance": 9094020230.69,
+        "DistanceUnit": "D18"
+    },
+    {
+        "AirlineID": "xRq",
+        "AirlineID_Text": "AirlineID_Text19",
+        "ConnectionID": "YVNO",
+        "DepartureAirport": "D19",
+        "DestinationAirport": "D19",
+        "DepartureTime": "03:52:06",
+        "ArrivalTime": "04:11:02",
+        "Distance": 7474236348.64,
+        "DistanceUnit": "D19"
+    },
+    {
+        "AirlineID": "tyN",
+        "AirlineID_Text": "AirlineID_Text20",
+        "ConnectionID": "gKHU",
+        "DepartureAirport": "D20",
+        "DestinationAirport": "D20",
+        "DepartureTime": "15:17:22",
+        "ArrivalTime": "18:35:29",
+        "Distance": 1556158678.14,
+        "DistanceUnit": "D20"
+    }
+]
